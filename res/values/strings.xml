@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Warn</string>
+    <string name="phoneNumber">xxxxxxx</string>
+    <string name="message">message</string>
+</resources>
